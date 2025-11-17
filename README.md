@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Bruno Araujo
 
 Desenvolvedor focado em criar soluções eficientes, limpas e escaláveis.  
-Sempre estudando novas tecnologias e boas práticas para evoluir como profissional.
+Sempre buscando aprender novas tecnologias e melhorar como profissional.
 
 ---
 
@@ -29,18 +29,16 @@ Sempre estudando novas tecnologias e boas práticas para evoluir como profission
 
 ## 📁 Projetos Principais
 
-> *Badges clicáveis levando para seus repositórios*
+> *Clique para acessar cada repositório*
 
-- [![Repo](https://img.shields.io/badge/Projeto%201-000?style=flat-square)](https://github.com/BrunooA/PROJETO1)  
-  *Descrição curta do que esse projeto faz.*
+- [![Repo](https://img.shields.io/badge/MBB--Assistência-000?style=flat-square)](https://github.com/BrunooA/MBB-Assist-ncia)  
+  *Sistema de assistência com organização simples e eficiente.*
 
-- [![Repo](https://img.shields.io/badge/Projeto%202-000?style=flat-square)](https://github.com/BrunooA/PROJETO2)  
-  *Descrição curta do que esse projeto faz.*
+- [![Repo](https://img.shields.io/badge/Lista%20de%20Tarefas-000?style=flat-square)](https://github.com/BrunooA/lista-tarefas)  
+  *Aplicação para gerenciar tarefas no dia a dia.*
 
-- [![Repo](https://img.shields.io/badge/Projeto%203-000?style=flat-square)](https://github.com/BrunooA/PROJETO3)  
-  *Descrição curta do que esse projeto faz.*
-
-*(Me mande os nomes dos projetos e coloco tudo certinho pra você.)*
+- [![Repo](https://img.shields.io/badge/Classificador%20de%20Email-000?style=flat-square)](https://github.com/BrunooA/classificador-email)  
+  *Ferramenta para classificação automática de emails utilizando lógica e automação.*
 
 ---
 
@@ -50,7 +48,7 @@ Sempre estudando novas tecnologias e boas práticas para evoluir como profission
   <a href="mailto:bruno.araujo@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/bruno">
+  <a href="https://www.linkedin.com/in/bruno-araujo-79a735206">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin" />
   </a>
 </p>
