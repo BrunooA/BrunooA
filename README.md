@@ -40,6 +40,7 @@ Atualmente colaborando no projeto:
 > *Clique para acessar cada repositório*
 
 - [![Repo](https://img.shields.io/badge/pride--workplace-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebylari/pride-workplace)
+
   *Projeto desenvolvido em parceria com **codebylari** para o trabalho de PIE da faculdade.*
 
 ---
