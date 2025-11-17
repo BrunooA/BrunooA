@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Bruno Araujo
 
 Desenvolvedor focado em criar soluções eficientes, limpas e escaláveis.  
-Sempre buscando aprender novas tecnologias e melhorar como profissional.
+Apaixonado por tecnologia, boas práticas e evolução constante.
 
 ---
 
@@ -18,43 +18,43 @@ Sempre buscando aprender novas tecnologias e melhorar como profissional.
 
 ---
 
-## 🔥 Estatísticas
-
-<p>
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=BrunooA&show_icons=true&theme=transparent&hide_title=true&hide_border=true" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunooA&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 📁 Projetos Principais
 
 > *Clique para acessar cada repositório*
 
-- [![Repo](https://img.shields.io/badge/MBB--Assistência-000?style=flat-square)](https://github.com/BrunooA/MBB-Assist-ncia)  
+- [![Repo](https://img.shields.io/badge/MBB--Assistência-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunooA/MBB-Assist-ncia)  
   *Sistema de assistência com organização simples e eficiente.*
 
-- [![Repo](https://img.shields.io/badge/Lista%20de%20Tarefas-000?style=flat-square)](https://github.com/BrunooA/lista-tarefas)  
-  *Aplicação para gerenciar tarefas no dia a dia.*
+- [![Repo](https://img.shields.io/badge/Lista%20de%20Tarefas-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunooA/lista-tarefas)  
+  *Aplicação para gerenciar tarefas do dia a dia.*
 
-- [![Repo](https://img.shields.io/badge/Classificador%20de%20Email-000?style=flat-square)](https://github.com/BrunooA/classificador-email)  
+- [![Repo](https://img.shields.io/badge/Classificador%20de%20Email-9C27B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunooA/classificador-email)  
   *Ferramenta para classificação automática de emails utilizando lógica e automação.*
+
+---
+
+## 🔥 Estatísticas
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BrunooA&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunooA&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Contato
 
-<p>
+<p align="center">
   <a href="mailto:bruno.araujo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/bruno-araujo-79a735206">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrunooA&color=000&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=BrunooA&color=blue&style=flat-square">
 </p>
