@@ -1,1 +1,3 @@
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=700&color=00F76F&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Bruno!;Fullstack+Developer;Apaixonado+por+Tech+e+Criação" />
+</p>
